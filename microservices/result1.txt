@@ -1,0 +1,392 @@
+Tue Jun 27 18:43:09 UTC 2023
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    42.61ms   84.30ms   1.01s    95.36%
+    Req/Sec   376.58    176.59   707.00     60.13%
+  Latency Distribution
+     50%   22.08ms
+     75%   38.78ms
+     90%   74.71ms
+     99%  506.43ms
+  58606 requests in 40.03s, 27.89MB read
+Requests/sec:   1464.21
+Transfer/sec:    713.52KB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.46ms    8.99ms 109.23ms   66.90%
+    Req/Sec   553.48     50.20   710.00     70.38%
+  Latency Distribution
+     50%   17.33ms
+     75%   21.96ms
+     90%   29.45ms
+     99%   47.54ms
+  88194 requests in 40.03s, 41.97MB read
+Requests/sec:   2203.46
+Transfer/sec:      1.05MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.37ms   11.88ms 236.17ms   82.81%
+    Req/Sec   569.28     50.62   700.00     76.44%
+  Latency Distribution
+     50%   16.91ms
+     75%   21.18ms
+     90%   28.66ms
+     99%   48.84ms
+  90502 requests in 40.02s, 43.07MB read
+Requests/sec:   2261.26
+Transfer/sec:      1.08MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.34ms   10.12ms 182.53ms   73.16%
+    Req/Sec   563.65     52.89   727.00     76.36%
+  Latency Distribution
+     50%   17.02ms
+     75%   21.36ms
+     90%   28.90ms
+     99%   48.90ms
+  89799 requests in 40.03s, 42.73MB read
+Requests/sec:   2243.07
+Transfer/sec:      1.07MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.20ms    8.83ms  85.88ms   66.56%
+    Req/Sec   561.46     46.65   696.00     70.81%
+  Latency Distribution
+     50%   17.11ms
+     75%   21.50ms
+     90%   29.07ms
+     99%   47.04ms
+  89466 requests in 40.03s, 42.58MB read
+Requests/sec:   2234.94
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.53ms   10.43ms 234.04ms   74.36%
+    Req/Sec   557.96     52.69   700.00     76.00%
+  Latency Distribution
+     50%   17.22ms
+     75%   21.49ms
+     90%   29.14ms
+     99%   48.68ms
+  88924 requests in 40.03s, 42.32MB read
+Requests/sec:   2221.43
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.32ms    8.79ms  83.22ms   66.77%
+    Req/Sec   557.28     46.41   690.00     67.81%
+  Latency Distribution
+     50%   17.24ms
+     75%   21.66ms
+     90%   29.20ms
+     99%   46.32ms
+  88804 requests in 40.02s, 42.26MB read
+Requests/sec:   2218.79
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.44ms   10.20ms 180.19ms   73.47%
+    Req/Sec   560.54     51.21   707.00     74.70%
+  Latency Distribution
+     50%   17.12ms
+     75%   21.47ms
+     90%   29.04ms
+     99%   48.85ms
+  89249 requests in 40.03s, 42.47MB read
+Requests/sec:   2229.66
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.09ms    8.52ms  92.85ms   66.14%
+    Req/Sec   563.70     41.94   700.00     68.38%
+  Latency Distribution
+     50%   17.09ms
+     75%   21.06ms
+     90%   28.71ms
+     99%   45.00ms
+  89837 requests in 40.03s, 42.75MB read
+Requests/sec:   2244.20
+Transfer/sec:      1.07MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.51ms   11.30ms 214.42ms   79.24%
+    Req/Sec   561.70     53.43   686.00     77.97%
+  Latency Distribution
+     50%   17.08ms
+     75%   21.24ms
+     90%   28.85ms
+     99%   48.55ms
+  89467 requests in 40.03s, 42.58MB read
+Requests/sec:   2235.05
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    23.97ms   74.19ms 972.34ms   97.71%
+    Req/Sec   778.78    277.44     1.19k    71.16%
+  Latency Distribution
+     50%   11.09ms
+     75%   18.83ms
+     90%   31.05ms
+     99%  457.01ms
+  121387 requests in 40.02s, 57.77MB read
+Requests/sec:   3033.11
+Transfer/sec:      1.44MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    11.11ms    9.26ms 217.98ms   91.34%
+    Req/Sec     0.97k    98.04     1.21k    77.01%
+  Latency Distribution
+     50%    9.34ms
+     75%   14.22ms
+     90%   19.56ms
+     99%   35.16ms
+  154964 requests in 40.02s, 73.74MB read
+Requests/sec:   3872.28
+Transfer/sec:      1.84MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    11.15ms    9.88ms 217.88ms   92.33%
+    Req/Sec     0.98k    96.03     1.24k    77.38%
+  Latency Distribution
+     50%    9.36ms
+     75%   14.24ms
+     90%   19.56ms
+     99%   35.37ms
+  155251 requests in 40.02s, 73.88MB read
+Requests/sec:   3879.08
+Transfer/sec:      1.85MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    11.43ms   10.30ms 187.88ms   92.60%
+    Req/Sec     0.96k    99.60     1.21k    74.56%
+  Latency Distribution
+     50%    9.49ms
+     75%   14.38ms
+     90%   19.88ms
+     99%   38.15ms
+  152986 requests in 40.02s, 72.80MB read
+Requests/sec:   3822.84
+Transfer/sec:      1.82MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    10.89ms    6.70ms  72.56ms   74.49%
+    Req/Sec     0.97k    95.48     1.22k    74.12%
+  Latency Distribution
+     50%    9.47ms
+     75%   14.31ms
+     90%   19.60ms
+     99%   33.24ms
+  153759 requests in 40.02s, 73.17MB read
+Requests/sec:   3842.19
+Transfer/sec:      1.83MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    11.21ms    9.17ms 191.10ms   91.07%
+    Req/Sec     0.96k    98.46     1.24k    72.87%
+  Latency Distribution
+     50%    9.51ms
+     75%   14.35ms
+     90%   19.75ms
+     99%   35.04ms
+  153146 requests in 40.02s, 72.88MB read
+Requests/sec:   3826.90
+Transfer/sec:      1.82MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    11.09ms    8.56ms 178.67ms   90.17%
+    Req/Sec     0.97k    99.52     1.20k    74.86%
+  Latency Distribution
+     50%    9.44ms
+     75%   14.27ms
+     90%   19.57ms
+     99%   34.63ms
+  154009 requests in 40.03s, 73.29MB read
+Requests/sec:   3847.44
+Transfer/sec:      1.83MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    11.01ms    8.44ms 180.35ms   89.98%
+    Req/Sec     0.98k    90.94     1.22k    72.87%
+  Latency Distribution
+     50%    9.37ms
+     75%   14.20ms
+     90%   19.46ms
+     99%   34.65ms
+  155175 requests in 40.02s, 73.85MB read
+Requests/sec:   3877.04
+Transfer/sec:      1.85MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    11.15ms    9.83ms 213.16ms   92.36%
+    Req/Sec     0.97k    99.40     1.22k    77.52%
+  Latency Distribution
+     50%    9.38ms
+     75%   14.22ms
+     90%   19.48ms
+     99%   35.23ms
+  155078 requests in 40.02s, 73.80MB read
+Requests/sec:   3874.80
+Transfer/sec:      1.84MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    11.07ms    6.77ms  92.85ms   74.08%
+    Req/Sec     0.95k    93.64     1.18k    70.56%
+  Latency Distribution
+     50%    9.68ms
+     75%   14.51ms
+     90%   19.91ms
+     99%   33.74ms
+  151150 requests in 40.03s, 71.93MB read
+Requests/sec:   3776.19
+Transfer/sec:      1.80MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    47.31ms   97.02ms   1.12s    94.86%
+    Req/Sec   366.84    186.37   676.00     56.65%
+  Latency Distribution
+     50%   22.50ms
+     75%   40.28ms
+     90%   88.27ms
+     99%  596.62ms
+  56946 requests in 40.03s, 27.10MB read
+Requests/sec:   1422.70
+Transfer/sec:    693.29KB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.96ms   11.01ms 215.71ms   76.00%
+    Req/Sec   548.20     56.84   696.00     72.18%
+  Latency Distribution
+     50%   17.38ms
+     75%   22.41ms
+     90%   29.76ms
+     99%   50.81ms
+  87182 requests in 40.02s, 41.49MB read
+Requests/sec:   2178.45
+Transfer/sec:      1.04MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.53ms   10.98ms 207.13ms   76.86%
+    Req/Sec   560.85     51.51   730.00     72.99%
+  Latency Distribution
+     50%   17.09ms
+     75%   21.67ms
+     90%   29.11ms
+     99%   49.06ms
+  89219 requests in 40.03s, 42.46MB read
+Requests/sec:   2229.08
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.50ms   10.30ms 186.98ms   73.56%
+    Req/Sec   558.29     54.78   696.00     75.94%
+  Latency Distribution
+     50%   17.14ms
+     75%   21.61ms
+     90%   29.20ms
+     99%   49.14ms
+  88952 requests in 40.02s, 42.33MB read
+Requests/sec:   2222.54
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.07ms    8.46ms  89.91ms   66.56%
+    Req/Sec   563.94     41.89   696.00     67.12%
+  Latency Distribution
+     50%   17.06ms
+     75%   21.06ms
+     90%   28.56ms
+     99%   44.91ms
+  89880 requests in 40.03s, 42.77MB read
+Requests/sec:   2245.43
+Transfer/sec:      1.07MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.37ms    9.89ms 173.61ms   72.93%
+    Req/Sec   561.49     45.91   700.00     73.76%
+  Latency Distribution
+     50%   17.11ms
+     75%   21.24ms
+     90%   28.74ms
+     99%   47.99ms
+  89410 requests in 40.02s, 42.55MB read
+Requests/sec:   2234.05
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.50ms    8.81ms 109.43ms   67.19%
+    Req/Sec   551.76     46.71   670.00     68.12%
+  Latency Distribution
+     50%   17.38ms
+     75%   21.69ms
+     90%   29.34ms
+     99%   46.91ms
+  87920 requests in 40.03s, 41.84MB read
+Requests/sec:   2196.28
+Transfer/sec:      1.05MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.51ms   11.15ms 240.26ms   77.88%
+    Req/Sec   561.28     57.16   710.00     76.81%
+  Latency Distribution
+     50%   17.05ms
+     75%   21.48ms
+     90%   29.01ms
+     99%   49.32ms
+  89444 requests in 40.03s, 42.56MB read
+Requests/sec:   2234.67
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.32ms    8.81ms  99.08ms   67.09%
+    Req/Sec   557.55     46.83   727.00     67.50%
+  Latency Distribution
+     50%   17.21ms
+     75%   21.60ms
+     90%   29.09ms
+     99%   47.04ms
+  88840 requests in 40.02s, 42.28MB read
+Requests/sec:   2219.81
+Transfer/sec:      1.06MB
+Running 40s test @ http://129.148.43.228/api/gateway/owners/1
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    18.53ms   10.75ms 196.35ms   76.42%
+    Req/Sec   559.81     49.92   710.00     72.06%
+  Latency Distribution
+     50%   17.11ms
+     75%   21.53ms
+     90%   29.02ms
+     99%   49.11ms
+  89092 requests in 40.02s, 42.40MB read
+Requests/sec:   2226.01
+Transfer/sec:      1.06MB
+Tue Jun 27 19:09:05 UTC 2023

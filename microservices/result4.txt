@@ -1,0 +1,392 @@
+Tue Jun 27 19:37:00 UTC 2023
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    59.59ms   88.36ms   1.42s    91.34%
+    Req/Sec   257.65    122.79   575.00     64.27%
+  Latency Distribution
+     50%   32.79ms
+     75%   61.32ms
+     90%  133.19ms
+     99%  448.73ms
+  41039 requests in 40.03s, 39.85MB read
+Requests/sec:   1025.25
+Transfer/sec:      1.00MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    27.37ms   23.87ms 480.71ms   93.45%
+    Req/Sec   402.75     99.46   710.00     68.19%
+  Latency Distribution
+     50%   23.25ms
+     75%   32.68ms
+     90%   44.24ms
+     99%  111.93ms
+  64184 requests in 40.02s, 62.32MB read
+Requests/sec:   1603.71
+Transfer/sec:      1.56MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    20.78ms   11.76ms 253.88ms   79.83%
+    Req/Sec   494.24     51.03   696.00     72.00%
+  Latency Distribution
+     50%   19.58ms
+     75%   26.21ms
+     90%   32.83ms
+     99%   48.78ms
+  78771 requests in 40.03s, 76.49MB read
+Requests/sec:   1967.80
+Transfer/sec:      1.91MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    20.95ms   12.01ms 242.65ms   73.81%
+    Req/Sec   489.88     62.91   710.00     71.25%
+  Latency Distribution
+     50%   19.15ms
+     75%   27.81ms
+     90%   35.44ms
+     99%   50.74ms
+  78057 requests in 40.02s, 75.80MB read
+Requests/sec:   1950.32
+Transfer/sec:      1.89MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.31ms   11.64ms 222.99ms   76.02%
+    Req/Sec   481.06     51.94   710.00     72.38%
+  Latency Distribution
+     50%   20.08ms
+     75%   27.19ms
+     90%   34.19ms
+     99%   50.01ms
+  76661 requests in 40.02s, 74.44MB read
+Requests/sec:   1915.35
+Transfer/sec:      1.86MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    22.55ms   13.46ms 226.71ms   70.60%
+    Req/Sec   456.64     65.24   810.00     71.88%
+  Latency Distribution
+     50%   20.16ms
+     75%   30.91ms
+     90%   39.85ms
+     99%   57.38ms
+  72776 requests in 40.03s, 70.67MB read
+Requests/sec:   1818.17
+Transfer/sec:      1.77MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    22.45ms   12.49ms 199.90ms   67.34%
+    Req/Sec   455.79     61.55   690.00     67.94%
+  Latency Distribution
+     50%   21.07ms
+     75%   30.26ms
+     90%   38.38ms
+     99%   55.05ms
+  72627 requests in 40.02s, 70.52MB read
+Requests/sec:   1814.55
+Transfer/sec:      1.76MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    22.04ms   11.36ms 191.96ms   69.75%
+    Req/Sec   462.64     53.80   666.00     72.38%
+  Latency Distribution
+     50%   20.93ms
+     75%   28.48ms
+     90%   36.01ms
+     99%   52.21ms
+  73731 requests in 40.03s, 71.59MB read
+Requests/sec:   1842.05
+Transfer/sec:      1.79MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.04ms   11.52ms 191.16ms   76.25%
+    Req/Sec   488.82     53.18   720.00     71.25%
+  Latency Distribution
+     50%   19.51ms
+     75%   26.58ms
+     90%   34.00ms
+     99%   52.87ms
+  77894 requests in 40.03s, 75.64MB read
+Requests/sec:   1945.88
+Transfer/sec:      1.89MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    20.96ms    9.64ms  91.15ms   66.45%
+    Req/Sec   483.05     52.51   717.00     70.00%
+  Latency Distribution
+     50%   19.94ms
+     75%   26.96ms
+     90%   33.87ms
+     99%   47.68ms
+  76964 requests in 40.02s, 74.73MB read
+Requests/sec:   1922.92
+Transfer/sec:      1.87MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    62.17ms  118.24ms   1.70s    93.41%
+    Req/Sec   271.52    119.78   650.00     61.94%
+  Latency Distribution
+     50%   30.70ms
+     75%   59.39ms
+     90%  121.92ms
+     99%  555.48ms
+  43285 requests in 40.03s, 42.03MB read
+Requests/sec:   1081.37
+Transfer/sec:      1.05MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    23.36ms   15.15ms 364.53ms   86.72%
+    Req/Sec   445.48     72.22   666.00     68.94%
+  Latency Distribution
+     50%   21.25ms
+     75%   29.21ms
+     90%   37.64ms
+     99%   60.95ms
+  70999 requests in 40.02s, 68.94MB read
+Requests/sec:   1773.90
+Transfer/sec:      1.72MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    22.68ms   13.81ms 290.84ms   82.07%
+    Req/Sec   456.08     52.99   666.00     69.44%
+  Latency Distribution
+     50%   20.84ms
+     75%   28.80ms
+     90%   36.70ms
+     99%   56.94ms
+  72677 requests in 40.02s, 70.57MB read
+Requests/sec:   1815.89
+Transfer/sec:      1.76MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    22.27ms   11.72ms 218.17ms   72.52%
+    Req/Sec   459.26     51.58   707.00     74.25%
+  Latency Distribution
+     50%   20.90ms
+     75%   28.43ms
+     90%   36.19ms
+     99%   53.96ms
+  73192 requests in 40.03s, 71.07MB read
+Requests/sec:   1828.57
+Transfer/sec:      1.78MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    22.26ms   13.34ms 225.03ms   81.54%
+    Req/Sec   467.76     57.09   650.00     67.06%
+  Latency Distribution
+     50%   19.70ms
+     75%   27.91ms
+     90%   36.87ms
+     99%   62.63ms
+  74544 requests in 40.03s, 72.38MB read
+Requests/sec:   1862.06
+Transfer/sec:      1.81MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    20.73ms   10.84ms 182.34ms   72.67%
+    Req/Sec   494.44     54.74   690.00     70.94%
+  Latency Distribution
+     50%   19.28ms
+     75%   26.43ms
+     90%   33.64ms
+     99%   52.75ms
+  78804 requests in 40.03s, 76.52MB read
+Requests/sec:   1968.71
+Transfer/sec:      1.91MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.25ms   11.57ms 207.37ms   74.38%
+    Req/Sec   483.72     57.81   777.00     70.88%
+  Latency Distribution
+     50%   19.39ms
+     75%   27.15ms
+     90%   35.10ms
+     99%   54.93ms
+  77075 requests in 40.02s, 74.84MB read
+Requests/sec:   1926.03
+Transfer/sec:      1.87MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.48ms   11.39ms 237.55ms   74.80%
+    Req/Sec   478.26     52.84   666.00     71.75%
+  Latency Distribution
+     50%   19.53ms
+     75%   27.04ms
+     90%   35.18ms
+     99%   56.15ms
+  76213 requests in 40.02s, 74.01MB read
+Requests/sec:   1904.19
+Transfer/sec:      1.85MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    20.53ms   11.91ms 193.65ms   80.57%
+    Req/Sec   505.95     57.79   730.00     70.38%
+  Latency Distribution
+     50%   18.43ms
+     75%   25.61ms
+     90%   33.67ms
+     99%   57.59ms
+  80629 requests in 40.03s, 78.29MB read
+Requests/sec:   2014.40
+Transfer/sec:      1.96MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.04ms   11.56ms 255.30ms   76.90%
+    Req/Sec   490.29     59.44   666.00     70.19%
+  Latency Distribution
+     50%   19.19ms
+     75%   26.38ms
+     90%   34.31ms
+     99%   56.61ms
+  78127 requests in 40.02s, 75.87MB read
+Requests/sec:   1952.23
+Transfer/sec:      1.90MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    51.59ms   75.03ms   1.15s    92.30%
+    Req/Sec   279.49    111.65   720.00     66.40%
+  Latency Distribution
+     50%   29.12ms
+     75%   58.57ms
+     90%  107.45ms
+     99%  367.40ms
+  44501 requests in 40.02s, 43.21MB read
+Requests/sec:   1111.88
+Transfer/sec:      1.08MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    23.64ms   16.46ms 358.46ms   90.69%
+    Req/Sec   446.25     64.88   606.00     71.75%
+  Latency Distribution
+     50%   20.79ms
+     75%   28.90ms
+     90%   38.34ms
+     99%   69.12ms
+  71118 requests in 40.03s, 69.06MB read
+Requests/sec:   1776.46
+Transfer/sec:      1.73MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.84ms   12.39ms 264.91ms   74.87%
+    Req/Sec   470.20     54.98   660.00     69.94%
+  Latency Distribution
+     50%   20.25ms
+     75%   28.47ms
+     90%   36.17ms
+     99%   54.18ms
+  74932 requests in 40.02s, 72.76MB read
+Requests/sec:   1872.25
+Transfer/sec:      1.82MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    22.14ms   13.56ms 236.35ms   82.08%
+    Req/Sec   470.33     56.11   797.00     72.88%
+  Latency Distribution
+     50%   19.81ms
+     75%   28.00ms
+     90%   36.71ms
+     99%   61.02ms
+  74952 requests in 40.03s, 72.78MB read
+Requests/sec:   1872.39
+Transfer/sec:      1.82MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.59ms   10.74ms 184.11ms   69.01%
+    Req/Sec   471.38     52.33   680.00     69.81%
+  Latency Distribution
+     50%   20.41ms
+     75%   27.89ms
+     90%   35.23ms
+     99%   51.31ms
+  75118 requests in 40.03s, 72.94MB read
+Requests/sec:   1876.47
+Transfer/sec:      1.82MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.13ms   11.36ms 206.38ms   77.02%
+    Req/Sec   487.02     48.97   626.00     70.75%
+  Latency Distribution
+     50%   19.37ms
+     75%   26.30ms
+     90%   34.00ms
+     99%   54.38ms
+  77605 requests in 40.02s, 75.36MB read
+Requests/sec:   1939.12
+Transfer/sec:      1.88MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.43ms   12.35ms 214.15ms   77.77%
+    Req/Sec   483.16     56.15   707.00     69.94%
+  Latency Distribution
+     50%   19.35ms
+     75%   27.34ms
+     90%   35.36ms
+     99%   58.48ms
+  76990 requests in 40.03s, 74.76MB read
+Requests/sec:   1923.47
+Transfer/sec:      1.87MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    21.76ms   11.92ms 204.89ms   68.13%
+    Req/Sec   470.21     59.62   690.00     69.19%
+  Latency Distribution
+     50%   19.96ms
+     75%   29.07ms
+     90%   37.35ms
+     99%   53.91ms
+  74940 requests in 40.03s, 72.77MB read
+Requests/sec:   1872.18
+Transfer/sec:      1.82MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    20.82ms   10.62ms 184.43ms   75.05%
+    Req/Sec   492.36     49.97   666.00     69.88%
+  Latency Distribution
+     50%   19.25ms
+     75%   25.94ms
+     90%   33.20ms
+     99%   52.19ms
+  78450 requests in 40.02s, 76.18MB read
+Requests/sec:   1960.23
+Transfer/sec:      1.90MB
+Running 40s test @ http://129.148.43.228/api/vet/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    20.81ms   11.51ms 198.32ms   72.66%
+    Req/Sec   493.69     60.95   767.00     68.69%
+  Latency Distribution
+     50%   19.08ms
+     75%   27.08ms
+     90%   34.86ms
+     99%   52.70ms
+  78678 requests in 40.03s, 76.40MB read
+Requests/sec:   1965.67
+Transfer/sec:      1.91MB
+Tue Jun 27 20:02:54 UTC 2023

@@ -1,0 +1,392 @@
+Tue Jun 27 20:58:45 UTC 2023
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    29.40ms   24.83ms 375.88ms   88.26%
+    Req/Sec   385.88    167.04   707.00     57.22%
+  Latency Distribution
+     50%   22.62ms
+     75%   34.22ms
+     90%   54.46ms
+     99%  121.83ms
+  61198 requests in 40.02s, 53.59MB read
+Requests/sec:   1529.07
+Transfer/sec:      1.34MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.87ms    6.63ms 245.38ms   75.75%
+    Req/Sec   598.45     44.27   700.00     76.06%
+  Latency Distribution
+     50%   16.35ms
+     75%   20.11ms
+     90%   24.41ms
+     99%   36.11ms
+  95344 requests in 40.02s, 83.49MB read
+Requests/sec:   2382.60
+Transfer/sec:      2.09MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.84ms    6.18ms  82.78ms   73.76%
+    Req/Sec   597.99     41.91   690.00     70.62%
+  Latency Distribution
+     50%   16.37ms
+     75%   20.10ms
+     90%   24.32ms
+     99%   34.98ms
+  95270 requests in 40.02s, 83.42MB read
+Requests/sec:   2380.60
+Transfer/sec:      2.08MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    17.03ms    6.42ms  87.77ms   74.00%
+    Req/Sec   592.02     43.04   700.00     71.31%
+  Latency Distribution
+     50%   16.53ms
+     75%   20.33ms
+     90%   24.73ms
+     99%   36.04ms
+  94313 requests in 40.02s, 82.59MB read
+Requests/sec:   2356.67
+Transfer/sec:      2.06MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.73ms    6.11ms 107.24ms   74.26%
+    Req/Sec   602.04     42.68   700.00     73.38%
+  Latency Distribution
+     50%   16.19ms
+     75%   19.88ms
+     90%   24.19ms
+     99%   34.83ms
+  95917 requests in 40.02s, 83.99MB read
+Requests/sec:   2396.66
+Transfer/sec:      2.10MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.78ms    6.41ms 213.15ms   75.33%
+    Req/Sec   601.32     42.22   696.00     71.81%
+  Latency Distribution
+     50%   16.21ms
+     75%   19.92ms
+     90%   24.29ms
+     99%   35.81ms
+  95807 requests in 40.03s, 83.90MB read
+Requests/sec:   2393.56
+Transfer/sec:      2.10MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.48ms    6.02ms  97.17ms   74.15%
+    Req/Sec   611.11     36.93   720.00     75.25%
+  Latency Distribution
+     50%   16.01ms
+     75%   19.62ms
+     90%   23.76ms
+     99%   33.68ms
+  97355 requests in 40.02s, 85.25MB read
+Requests/sec:   2432.52
+Transfer/sec:      2.13MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.59ms    6.13ms  78.65ms   73.76%
+    Req/Sec   607.03     38.52   717.00     71.62%
+  Latency Distribution
+     50%   16.14ms
+     75%   19.78ms
+     90%   24.01ms
+     99%   34.45ms
+  96711 requests in 40.02s, 84.69MB read
+Requests/sec:   2416.55
+Transfer/sec:      2.12MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.71ms    6.31ms 132.98ms   73.55%
+    Req/Sec   602.59     41.73   720.00     70.12%
+  Latency Distribution
+     50%   16.30ms
+     75%   20.07ms
+     90%   24.33ms
+     99%   34.58ms
+  95998 requests in 40.02s, 84.06MB read
+Requests/sec:   2398.60
+Transfer/sec:      2.10MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.73ms    6.21ms 101.59ms   74.86%
+    Req/Sec   602.41     43.66   700.00     75.19%
+  Latency Distribution
+     50%   16.17ms
+     75%   19.84ms
+     90%   24.13ms
+     99%   35.30ms
+  95995 requests in 40.03s, 84.06MB read
+Requests/sec:   2398.27
+Transfer/sec:      2.10MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    30.94ms   26.06ms 389.49ms   87.38%
+    Req/Sec   369.17    177.56   686.00     54.46%
+  Latency Distribution
+     50%   23.16ms
+     75%   36.77ms
+     90%   59.74ms
+     99%  132.72ms
+  58558 requests in 40.03s, 51.28MB read
+Requests/sec:   1462.90
+Transfer/sec:      1.28MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    17.02ms    6.37ms  81.94ms   74.36%
+    Req/Sec   592.37     44.23   700.00     74.19%
+  Latency Distribution
+     50%   16.44ms
+     75%   20.31ms
+     90%   24.73ms
+     99%   35.74ms
+  94386 requests in 40.03s, 82.65MB read
+Requests/sec:   2358.06
+Transfer/sec:      2.06MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    17.04ms    6.53ms 110.83ms   73.76%
+    Req/Sec   591.45     47.41   696.00     71.94%
+  Latency Distribution
+     50%   16.55ms
+     75%   20.40ms
+     90%   24.91ms
+     99%   36.09ms
+  94232 requests in 40.02s, 82.51MB read
+Requests/sec:   2354.51
+Transfer/sec:      2.06MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.84ms    6.48ms  90.98ms   74.35%
+    Req/Sec   599.14     42.68   727.00     73.44%
+  Latency Distribution
+     50%   16.26ms
+     75%   20.13ms
+     90%   24.55ms
+     99%   36.50ms
+  95465 requests in 40.02s, 83.59MB read
+Requests/sec:   2385.34
+Transfer/sec:      2.09MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.51ms    6.07ms  87.98ms   74.08%
+    Req/Sec   609.97     37.45   727.00     74.56%
+  Latency Distribution
+     50%   16.03ms
+     75%   19.68ms
+     90%   23.79ms
+     99%   34.19ms
+  97194 requests in 40.02s, 85.11MB read
+Requests/sec:   2428.43
+Transfer/sec:      2.13MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.81ms    6.22ms  95.03ms   74.37%
+    Req/Sec   599.43     43.07   710.00     75.31%
+  Latency Distribution
+     50%   16.34ms
+     75%   20.02ms
+     90%   24.16ms
+     99%   34.93ms
+  95492 requests in 40.02s, 83.62MB read
+Requests/sec:   2385.84
+Transfer/sec:      2.09MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    17.13ms    6.33ms 103.51ms   73.43%
+    Req/Sec   587.61     41.43   710.00     70.00%
+  Latency Distribution
+     50%   16.68ms
+     75%   20.51ms
+     90%   24.86ms
+     99%   35.31ms
+  93625 requests in 40.02s, 81.98MB read
+Requests/sec:   2339.31
+Transfer/sec:      2.05MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.96ms    6.29ms  77.78ms   73.41%
+    Req/Sec   593.84     41.76   710.00     69.12%
+  Latency Distribution
+     50%   16.52ms
+     75%   20.29ms
+     90%   24.61ms
+     99%   35.18ms
+  94602 requests in 40.02s, 82.84MB read
+Requests/sec:   2363.91
+Transfer/sec:      2.07MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.95ms    6.19ms  85.87ms   74.27%
+    Req/Sec   594.36     41.87   710.00     72.88%
+  Latency Distribution
+     50%   16.45ms
+     75%   20.14ms
+     90%   24.46ms
+     99%   35.27ms
+  94702 requests in 40.03s, 82.93MB read
+Requests/sec:   2365.81
+Transfer/sec:      2.07MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.68ms    6.15ms  67.99ms   73.59%
+    Req/Sec   603.58     42.51   710.00     73.62%
+  Latency Distribution
+     50%   16.23ms
+     75%   19.91ms
+     90%   24.16ms
+     99%   34.79ms
+  96172 requests in 40.02s, 84.21MB read
+Requests/sec:   2402.82
+Transfer/sec:      2.10MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    29.14ms   25.56ms 424.39ms   90.15%
+    Req/Sec   393.32    171.35   690.00     56.60%
+  Latency Distribution
+     50%   22.05ms
+     75%   33.62ms
+     90%   54.10ms
+     99%  128.27ms
+  62369 requests in 40.02s, 54.61MB read
+Requests/sec:   1558.28
+Transfer/sec:      1.36MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.65ms    6.81ms 230.93ms   76.42%
+    Req/Sec   607.49     45.58   727.00     72.19%
+  Latency Distribution
+     50%   16.08ms
+     75%   19.85ms
+     90%   24.19ms
+     99%   36.41ms
+  96800 requests in 40.02s, 84.76MB read
+Requests/sec:   2418.65
+Transfer/sec:      2.12MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.30ms    6.12ms 107.17ms   73.93%
+    Req/Sec   618.20     38.91   737.00     75.31%
+  Latency Distribution
+     50%   15.86ms
+     75%   19.48ms
+     90%   23.65ms
+     99%   33.95ms
+  98492 requests in 40.02s, 86.25MB read
+Requests/sec:   2461.20
+Transfer/sec:      2.16MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.32ms    5.81ms  74.49ms   74.21%
+    Req/Sec   616.61     37.51   707.00     72.44%
+  Latency Distribution
+     50%   15.82ms
+     75%   19.35ms
+     90%   23.44ms
+     99%   33.36ms
+  98238 requests in 40.02s, 86.02MB read
+Requests/sec:   2454.71
+Transfer/sec:      2.15MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.61ms    6.56ms 127.55ms   75.83%
+    Req/Sec   608.95     47.70   717.00     75.12%
+  Latency Distribution
+     50%   15.95ms
+     75%   19.70ms
+     90%   24.17ms
+     99%   36.96ms
+  97033 requests in 40.02s, 84.97MB read
+Requests/sec:   2424.43
+Transfer/sec:      2.12MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.44ms    6.11ms  72.06ms   74.35%
+    Req/Sec   613.11     43.50   727.00     75.38%
+  Latency Distribution
+     50%   15.88ms
+     75%   19.53ms
+     90%   23.84ms
+     99%   35.04ms
+  97677 requests in 40.02s, 85.53MB read
+Requests/sec:   2440.70
+Transfer/sec:      2.14MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.43ms    6.23ms  86.02ms   73.82%
+    Req/Sec   613.45     43.82   720.00     73.62%
+  Latency Distribution
+     50%   15.99ms
+     75%   19.66ms
+     90%   23.93ms
+     99%   34.65ms
+  97747 requests in 40.02s, 85.59MB read
+Requests/sec:   2442.23
+Transfer/sec:      2.14MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.27ms    6.03ms  77.16ms   73.47%
+    Req/Sec   618.98     38.65   720.00     73.19%
+  Latency Distribution
+     50%   15.80ms
+     75%   19.49ms
+     90%   23.66ms
+     99%   33.59ms
+  98618 requests in 40.02s, 86.36MB read
+Requests/sec:   2464.07
+Transfer/sec:      2.16MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    16.03ms    5.83ms  90.09ms   73.49%
+    Req/Sec   627.92     37.61   740.00     68.56%
+  Latency Distribution
+     50%   15.67ms
+     75%   19.14ms
+     90%   23.09ms
+     99%   32.67ms
+  100038 requests in 40.02s, 87.60MB read
+Requests/sec:   2499.59
+Transfer/sec:      2.19MB
+Running 40s test @ http://144.22.151.62/petclinic/api/vets
+  4 threads and 40 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency    15.85ms    5.85ms  96.91ms   73.82%
+    Req/Sec   635.17     39.77   770.00     68.00%
+  Latency Distribution
+     50%   15.44ms
+     75%   18.93ms
+     90%   22.89ms
+     99%   32.90ms
+  101204 requests in 40.02s, 88.62MB read
+Requests/sec:   2528.94
+Transfer/sec:      2.21MB
+Tue Jun 27 21:24:33 UTC 2023
